@@ -209,4 +209,12 @@ public class LoginValidationSteps  {
 
 
     }
+
+    @When("Sample")
+    public void s1(){
+
+        for(int i=0 ;i<67; i++){
+
+        }
+    }
 }
